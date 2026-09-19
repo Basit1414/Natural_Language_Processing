@@ -1,0 +1,11 @@
+rank,author,speeches,tone_valid_speeches,mean_hawkishness,mean_mixedness
+1,Jean-Claude Trichet,478,454,0.50653107,0.79812851
+2,Mario Draghi,337,318,0.39582190,0.76024331
+3,"Amando M Tetangco, Jr",272,177,0.44143470,0.75418396
+4,Benoît Cœuré,254,235,0.37679766,0.72388191
+5,Ben S Bernanke,252,218,0.44054217,0.77027505
+6,François Villeroy de Galhau,228,191,0.44216839,0.77418466
+7,Zeti Akhtar Aziz,224,80,0.42100084,0.60519118
+8,Andreas Dombret,222,166,0.42694666,0.72145402
+9,Yves Mersch,194,168,0.38934382,0.73425889
+10,Alan Greenspan,192,161,0.49682789,0.80183083

@@ -1,0 +1,11 @@
+speaker,total_speeches,tone_valid_speeches,halfyear_periods,slope_per_year,hac_t_statistic,p_value,r_squared,fdr_q_value,significant_fdr_5pct,trend_direction
+Jean-Claude Trichet,478,454,27,0.00404785,1.53298660,0.12527916,0.08457201,0.25055831,False,more hawkish
+Mario Draghi,337,318,27,-0.00429843,-1.35765368,0.17457360,0.08182780,0.29095600,False,more dovish
+"Amando M Tetangco, Jr",272,177,24,-0.00418348,-1.10735289,0.26814138,0.04672453,0.33517673,False,more dovish
+Benoît Cœuré,254,235,16,0.00288701,1.14423206,0.25252741,0.06076365,0.33517673,False,more hawkish
+Ben S Bernanke,252,218,23,-0.01292670,-7.26545277,0.00000000,0.50637653,0.00000000,True,more dovish
+François Villeroy de Galhau,228,191,22,0.01800701,4.24492209,0.00002187,0.51594979,0.00010933,True,more hawkish
+Zeti Akhtar Aziz,224,80,29,0.00063796,0.08482141,0.93240337,0.00031177,0.93240337,False,more hawkish
+Andreas Dombret,222,166,16,-0.01380123,-3.25546492,0.00113207,0.33800911,0.00377356,True,more dovish
+Yves Mersch,194,168,31,-0.00790055,-2.85984031,0.00423854,0.26357970,0.01059636,True,more dovish
+Alan Greenspan,192,161,18,-0.00445789,-0.75649168,0.44935446,0.04604438,0.49928273,False,more dovish

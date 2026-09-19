@@ -1,0 +1,7 @@
+pattern_name,regular_expression
+persistent_or_sticky_inflation,\b(?:persistent|persistently|persistence|sticky|entrenched)\s+(?:underlying\s+|core\s+|headline\s+)?inflation\b
+inflation_remains_high,\binflation\s+(?:remains?|remained|continues?\s+to\s+be|is\s+still)\s+(?:too\s+)?(?:high|elevated|above\s+(?:the\s+)?target)\b
+inflation_expected_to_remain_high,\binflation\s+(?:is\s+)?(?:expected|projected|forecast)\s+to\s+(?:remain|stay|be)\s+(?:too\s+)?(?:high|elevated|above\s+(?:the\s+)?target)\b
+persistent_price_pressures,\b(?:price|inflationary|cost)\s+pressures?\s+(?:remain|remained|persist|persisted|continue|continued|are\s+expected\s+to\s+continue)\b
+inflation_for_longer,"\b(?:inflation|price\s+pressures?)\b.{0,45}\b(?:longer\s+than\s+(?:previously\s+)?expected|for\s+longer|more\s+persistent)\b"
+second_round_or_deanchoring,\b(?:second[ -]round\s+effects?|de[ -]?anchor(?:ed|ing)?\s+(?:inflation\s+)?expectations?)\b

@@ -1,0 +1,260 @@
+jurisdiction,category,alias
+International,international,Bank for International Settlements
+International,international,BIS Monetary and Economic Department
+International,international,International Monetary Fund
+International,international,Inter-American Development Bank
+International,international,World Trade Organization
+International,international,Organisation for Economic Co-operation and Development
+International,international,United Nations
+International,international,Committee on Payments and Market Infrastructures
+European Union,supranational,European Central Bank
+European Union,supranational,ECB Executive Board
+European Union,supranational,European Monetary Institute
+European Union,supranational,Europ. Central Bank
+European Union,supranational,ECB
+United States,national,Board of Governors of the Federal Reserve System
+United States,national,Federal Reserve Board
+United States,national,Federal Reserve Bank
+United States,national,Federal Reserve System
+United Kingdom,national,Bank of England
+United Kingdom,national,Financial Services Authority
+Japan,national,Bank of Japan
+Canada,national,Bank of Canada
+Australia,national,Reserve Bank of Australia
+New Zealand,national,Reserve Bank of New Zealand
+Switzerland,national,Swiss National Bank
+Switzerland,national,Banque nationale suisse
+Switzerland,national,Swiss Federal Banking Commission
+Switzerland,national,SNB
+Germany,national,Deutsche Bundesbank
+Germany,national,German Federal Bank
+France,national,Banque de France
+France,national,Bank of France
+Italy,national,Banca d'Italia
+Italy,national,Bank of Italy
+Spain,national,Banco de España
+Spain,national,Banco de Espana
+Spain,national,Bank of Spain
+Netherlands,national,De Nederlandsche Bank
+Netherlands,national,Netherlands Bank
+Belgium,national,National Bank of Belgium
+Austria,national,Oesterreichische Nationalbank
+Austria,national,Austrian National Bank
+Austria,national,Central Bank of the Republic of Austria
+Portugal,national,Banco de Portugal
+Portugal,national,Bank of Portugal
+Ireland,national,Central Bank of Ireland
+Ireland,national,Central Bank and Financial Services Authority of Ireland
+Ireland,national,Central Bank & Financial Services Authority of Ireland
+Ireland,national,Centr. Bank and Fin. Services Authority of Ireland
+Greece,national,Bank of Greece
+Finland,national,Bank of Finland
+Finland,national,Suomen Pankki
+Luxembourg,national,Central Bank of Luxembourg
+Luxembourg,national,Banque centrale du Luxembourg
+Slovenia,national,Banka Slovenije
+Slovenia,national,Bank of Slovenia
+Slovakia,national,Národná banka Slovenska
+Slovakia,national,National Bank of Slovakia
+Croatia,national,Croatian National Bank
+Croatia,national,Hrvatska narodna banka
+Cyprus,national,Central Bank of Cyprus
+Malta,national,Central Bank of Malta
+Estonia,national,Eesti Pank
+Estonia,national,Bank of Estonia
+Latvia,national,Latvijas Banka
+Latvia,national,Bank of Latvia
+Lithuania,national,Lietuvos bankas
+Lithuania,national,Bank of Lithuania
+Bulgaria,national,Bulgarian National Bank
+Romania,national,National Bank of Romania
+Czechia,national,Czech National Bank
+Poland,national,Narodowy Bank Polski
+Poland,national,National Bank of Poland
+Hungary,national,Magyar Nemzeti Bank
+Hungary,national,National Bank of Hungary
+Sweden,national,Sveriges Riksbank
+Sweden,national,Swedish Riksbank
+Norway,national,Norges Bank
+Norway,national,Central Bank of Norway
+Denmark,national,Danmarks Nationalbank
+Denmark,national,Danish central bank
+Denmark,national,National Bank of Denmark
+Iceland,national,Central Bank of Iceland
+Russia,national,Bank of Russia
+Russia,national,Central Bank of the Russian Federation
+Ukraine,national,National Bank of Ukraine
+Ukraine,national,NBU
+Georgia,national,National Bank of Georgia
+Armenia,national,Central Bank of Armenia
+Azerbaijan,national,Central Bank of Azerbaijan
+Kazakhstan,national,National Bank of Kazakhstan
+Kyrgyz Republic,national,National Bank of the Kyrgyz Republic
+Tajikistan,national,National Bank of Tajikistan
+Uzbekistan,national,Central Bank of the Republic of Uzbekistan
+Serbia,national,National Bank of Serbia
+Bosnia and Herzegovina,national,Central Bank of Bosnia and Herzegovina
+North Macedonia,national,National Bank of the Republic of North Macedonia
+North Macedonia,national,National Bank of the Republic of Macedonia
+Albania,national,Bank of Albania
+Moldova,national,National Bank of Moldova
+Türkiye,national,Central Bank of the Republic of Türkiye
+Türkiye,national,Central Bank of the Republic of Turkey
+Israel,national,Bank of Israel
+Lebanon,national,Banque du Liban
+Lebanon,national,Central Bank of Lebanon
+Jordan,national,Central Bank of Jordan
+Saudi Arabia,national,Saudi Arabian Monetary Authority
+Saudi Arabia,national,Saudi Arabian Monetary Agency
+Saudi Arabia,national,Saudi Central Bank
+United Arab Emirates,national,Central Bank of the United Arab Emirates
+Qatar,national,Qatar Central Bank
+Kuwait,national,Central Bank of Kuwait
+Bahrain,national,Central Bank of Bahrain
+Bahrain,national,Bahrain Monetary Agency
+Oman,national,Central Bank of Oman
+Iran,national,Central Bank of the Islamic Republic of Iran
+Iraq,national,Central Bank of Iraq
+Egypt,national,Central Bank of Egypt
+Morocco,national,Bank Al-Maghrib
+Morocco,national,Bank of Morocco
+Tunisia,national,Central Bank of Tunisia
+Algeria,national,Bank of Algeria
+South Africa,national,South African Reserve Bank
+Nigeria,national,Central Bank of Nigeria
+Ghana,national,Bank of Ghana
+Kenya,national,Central Bank of Kenya
+Uganda,national,Bank of Uganda
+Tanzania,national,Bank of Tanzania
+Zambia,national,Bank of Zambia
+Zimbabwe,national,Reserve Bank of Zimbabwe
+Botswana,national,Bank of Botswana
+Namibia,national,Bank of Namibia
+Lesotho,national,Central Bank of Lesotho
+Eswatini,national,Central Bank of Eswatini
+Eswatini,national,Central Bank of Swaziland
+Malawi,national,Reserve Bank of Malawi
+Mozambique,national,Banco de Moçambique
+Mozambique,national,Banco de Mocambique
+Mozambique,national,Bank of Mozambique
+Angola,national,Banco Nacional de Angola
+Angola,national,National Bank of Angola
+Mauritius,national,Bank of Mauritius
+Seychelles,national,Central Bank of Seychelles
+Rwanda,national,National Bank of Rwanda
+Burundi,national,Bank of the Republic of Burundi
+Democratic Republic of the Congo,national,Central Bank of the Congo
+West African Economic and Monetary Union,regional,Central Bank of West African States
+West African Economic and Monetary Union,regional,Banque Centrale des Etats de l'Afrique de l'Ouest
+Central African Economic and Monetary Community,regional,Bank of Central African States
+Central African Economic and Monetary Community,regional,Banque des États de l'Afrique Centrale
+China,national,People's Bank of China
+China,national,Peoples Bank of China
+Hong Kong SAR,territory,Hong Kong Monetary Authority
+Macao SAR,territory,Monetary Authority of Macao
+India,national,Reserve Bank of India
+Bangladesh,national,Bangladesh Bank
+Pakistan,national,State Bank of Pakistan
+Sri Lanka,national,Central Bank of Sri Lanka
+Nepal,national,Nepal Rastra Bank
+Nepal,national,Central Bank of Nepal
+Bhutan,national,Royal Monetary Authority of Bhutan
+Maldives,national,Maldives Monetary Authority
+Indonesia,national,Bank Indonesia
+Indonesia,national,Bank of Indonesia
+Malaysia,national,Bank Negara Malaysia
+Malaysia,national,Central Bank of Malaysia
+Singapore,national,Monetary Authority of Singapore
+Philippines,national,Bangko Sentral ng Pilipinas
+Philippines,national,Central Bank of the Philippines
+Thailand,national,Bank of Thailand
+Viet Nam,national,State Bank of Vietnam
+Viet Nam,national,State Bank of Viet Nam
+Cambodia,national,National Bank of Cambodia
+Lao PDR,national,Bank of the Lao PDR
+Lao PDR,national,Bank of Laos
+Myanmar,national,Central Bank of Myanmar
+Brunei Darussalam,national,Autoriti Monetari Brunei Darussalam
+Brunei Darussalam,national,Brunei Darussalam Central Bank
+South Korea,national,Bank of Korea
+Mongolia,national,Bank of Mongolia
+Taiwan,national,Central Bank of the Republic of China (Taiwan)
+Taiwan,national,Central Bank of China (Taiwan)
+Papua New Guinea,national,Bank of Papua New Guinea
+Fiji,national,Reserve Bank of Fiji
+Solomon Islands,national,Central Bank of Solomon Islands
+Samoa,national,Central Bank of Samoa
+Tonga,national,National Reserve Bank of Tonga
+Vanuatu,national,Reserve Bank of Vanuatu
+Timor-Leste,national,Central Bank of Timor-Leste
+Mexico,national,Banco de México
+Mexico,national,Banco de Mexico
+Mexico,national,Bank of Mexico
+Brazil,national,Banco Central do Brasil
+Brazil,national,Central Bank of Brazil
+Argentina,national,Banco Central de la República Argentina
+Argentina,national,Central Bank of Argentina
+Chile,national,Central Bank of Chile
+Colombia,national,Banco de la República
+Colombia,national,Banco de la Republica
+Colombia,national,Bank of the Republic of Colombia
+Colombia,national,Central Bank of Colombia
+Colombia,national,Bank of the Republic
+Peru,national,Banco Central de Reserva del Perú
+Peru,national,Banco Central de Reserva del Peru
+Peru,national,Central Reserve Bank of Peru
+Venezuela,national,Central Bank of Venezuela
+Ecuador,national,Central Bank of Ecuador
+Bolivia,national,Central Bank of Bolivia
+Paraguay,national,Central Bank of Paraguay
+Uruguay,national,Central Bank of Uruguay
+Costa Rica,national,Central Bank of Costa Rica
+Guatemala,national,Bank of Guatemala
+Honduras,national,Central Bank of Honduras
+El Salvador,national,Central Reserve Bank of El Salvador
+Nicaragua,national,Central Bank of Nicaragua
+Dominican Republic,national,Central Bank of the Dominican Republic
+Haiti,national,Bank of the Republic of Haiti
+Jamaica,national,Bank of Jamaica
+Trinidad and Tobago,national,Central Bank of Trinidad and Tobago
+The Bahamas,national,Central Bank of The Bahamas
+The Bahamas,national,Central Bank of the Bahamas
+Barbados,national,Central Bank of Barbados
+Guyana,national,Bank of Guyana
+Suriname,national,Central Bank of Suriname
+Belize,national,Central Bank of Belize
+Cayman Islands,territory,Cayman Islands Monetary Authority
+Aruba,territory,Central Bank of Aruba
+Curaçao and Sint Maarten,regional,Central Bank of Curaçao and Sint Maarten
+Curaçao and Sint Maarten,regional,Central Bank of Curacao and Sint Maarten
+Netherlands Antilles,regional,Bank of the Netherlands Antilles
+Netherlands Antilles,regional,Bank van de Nederlandse Antillen
+Eastern Caribbean Currency Union,regional,Eastern Caribbean Central Bank
+Kosovo,national,Central Bank of the Republic of Kosovo
+Sierra Leone,national,Bank of Sierra Leone
+Liberia,national,Central Bank of Liberia
+Montenegro,national,Central Bank of Montenegro
+The Gambia,national,Central Bank of The Gambia
+The Gambia,national,Central Bank of Gambia
+Cabo Verde,national,Bank of Cabo Verde
+Cabo Verde,national,Central Bank of Cape Verde
+São Tomé and Príncipe,national,Central Bank of São Tomé and Príncipe
+São Tomé and Príncipe,national,Central Bank of Sao Tome and Principe
+Cuba,national,Central Bank of Cuba
+Syria,national,Central Bank of Syria
+Yemen,national,Central Bank of Yemen
+Belarus,national,National Bank of the Republic of Belarus
+Belarus,national,National Bank of Belarus
+Ethiopia,national,National Bank of Ethiopia
+Libya,national,Central Bank of Libya
+Sudan,national,Central Bank of Sudan
+Eritrea,national,Bank of Eritrea
+South Sudan,national,Bank of South Sudan
+Mauritania,national,Central Bank of Mauritania
+Comoros,national,Central Bank of Comoros
+Madagascar,national,Central Bank of Madagascar
+Djibouti,national,Central Bank of Djibouti
+Guinea,national,Central Bank of Guinea
+Guinea-Bissau,national,Central Bank of Guinea-Bissau
+Equatorial Guinea,national,Central Bank of Equatorial Guinea
+Gabon,national,Central Bank of Gabon

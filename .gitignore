@@ -1,0 +1,17 @@
+# Raw and third-party data are reproducibly downloaded but not committed.
+BIS_speeches.csv
+speeches.zip
+data/external/
+
+# Generated model artifacts can be rebuilt from the pinned WCB splits.
+outputs/models/
+
+# Python and notebook runtime files.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+

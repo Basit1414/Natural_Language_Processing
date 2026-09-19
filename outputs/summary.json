@@ -1,0 +1,103 @@
+{
+  "data": {
+    "source_path": "BIS_speeches.csv",
+    "sha256": "78b9ea67c2d75dfe77bd08d437f8a48ab8ea7c4efdeebe611b43d694156ad319",
+    "speeches": 20728,
+    "start_date": "1996-09-10",
+    "end_date": "2026-06-22",
+    "unique_speakers": 1019,
+    "date_corrections": 2,
+    "word_count": {
+      "minimum": 38.0,
+      "maximum": 48830.0,
+      "mean": 2803.9130162099577,
+      "median": 2447.5,
+      "standard_deviation": 1871.8236626106911
+    },
+    "inflation_mention_count": 11489,
+    "inflation_mention_share": 0.5542744114241606
+  },
+  "country_attribution": {
+    "institution_alias": 20528,
+    "speaker_fallback": 168,
+    "unresolved": 32,
+    "resolved_share": 0.9984561945194905,
+    "direct_conflicts_flagged": 579
+  },
+  "inflation_persistence": {
+    "count": 1404,
+    "share": 0.06773446545735237,
+    "peak_year": 2023,
+    "peak_share": 0.23450134770889489
+  },
+  "tone_model": {
+    "best_alpha": 0.0001,
+    "test_accuracy": 0.6296,
+    "test_macro_f1": 0.6163583002947575,
+    "test_weighted_f1": 0.6284619767675649,
+    "test_log_loss": 0.8935375320722604,
+    "test_multiclass_brier": 0.5038832445512949,
+    "test_top_label_ece_15_bins": 0.029308443564304534,
+    "tone_valid_speeches": 16803,
+    "tone_valid_share": 0.8106426090312621
+  },
+  "speaker_trends": {
+    "significant_after_fdr": [
+      "Ben S Bernanke",
+      "François Villeroy de Galhau",
+      "Andreas Dombret",
+      "Yves Mersch"
+    ],
+    "number_significant_after_fdr": 4
+  },
+  "rankings": {
+    "top_countries_by_volume": [
+      "United States",
+      "India",
+      "Germany",
+      "United Kingdom",
+      "Japan",
+      "Canada",
+      "Australia",
+      "Malaysia",
+      "Philippines",
+      "Sweden"
+    ],
+    "most_hawkish": [
+      "Türkiye",
+      "Norway",
+      "Iceland",
+      "Chile",
+      "South Africa",
+      "Sweden",
+      "Mexico",
+      "Denmark",
+      "Romania",
+      "Netherlands"
+    ],
+    "most_dovish": [
+      "China",
+      "Kenya",
+      "Japan",
+      "Greece",
+      "Albania",
+      "Portugal",
+      "Zambia",
+      "Israel",
+      "Fiji",
+      "Malaysia"
+    ],
+    "most_stable": [
+      "Israel",
+      "Sweden",
+      "United Kingdom",
+      "Türkiye",
+      "India",
+      "Italy",
+      "South Africa",
+      "Germany",
+      "United States",
+      "Zambia"
+    ]
+  }
+}

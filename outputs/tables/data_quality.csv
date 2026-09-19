@@ -1,0 +1,12 @@
+check,value
+rows,20728
+missing_date,0
+missing_author,25
+missing_title,0
+missing_text,0
+missing_description,3
+duplicate_rows,0
+duplicate_urls,0
+duplicate_texts,26
+corrected_dates,2
+analysis_eligible,20728
